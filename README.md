@@ -1,2 +1,2 @@
 # 2048-game
-Srima Sarajita Kat
+Srima Sarajita Kar
