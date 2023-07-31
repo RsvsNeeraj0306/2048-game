@@ -1,7 +1,6 @@
 # 2048-game
-Neeraj
-Srima Sarajita Kar
-sandhya shevatre
-Basipaka Joseph
-Ashish Sri Perambuduru
->>>>>>> 59563313a4e126176ee29c61dde898018487609d
+<br>Neeraj
+<br>Srima Sarajita Kar
+<br>sandhya shevatre
+<br>Basipaka Joseph
+<br>Ashish Sri Perambuduru
