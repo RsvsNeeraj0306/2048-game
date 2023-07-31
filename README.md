@@ -1,6 +1,6 @@
 <br>1.Neeraj
 <br>2.Srima Sarajita Kar
-<br>3.sandhya shevatre
+<br>3.Sandhya Shevatre
 <br>4.Basipaka Joseph
 <br>5.Ashish Sri Perambuduru
 
