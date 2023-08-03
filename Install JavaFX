@@ -1,0 +1,5 @@
+<br> How to install JavaFX ?
+
+Starting from Java 11, JavaFX was removed from the JDK and is now available as a separate module called "OpenJFX." To use JavaFX with Java 17, 
+you'll need to download and set up OpenJFX separately.
+Here are the steps to install JavaFX for Java 17:
