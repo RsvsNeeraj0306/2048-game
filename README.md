@@ -17,3 +17,5 @@ If all four spaces in a row or column are filled with tiles of the same value, a
 The user's score starts at zero, and is increased whenever two tiles combine, by the value of the new tile.
 The game is won when a tile with a value of 2048 appears on the board.
 
+
+
